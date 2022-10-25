@@ -1,0 +1,9 @@
+<resources>
+    <!-- Added all strings which will be used in activity_main.xml, changed app_name to include a space in the middle of "UdayaProfile" This change will effect the android label in AndroidManifest.xml. -->
+    <string name="app_name">Udaya Profile</string>
+    <string name="user_name">Udaya Upadhyay</string>
+    <string name="name_pronounce">(YOU-DAY-YAH)</string>
+    <string name="user_description">Student at HCC. Studying App Development.</string>
+    <string name="image_description">Image of Udaya</string>
+    <string name="hello_world">Hello Android World!</string>
+</resources>
